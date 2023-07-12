@@ -10,4 +10,5 @@ This game is a simple version of Pac-Man.
 - To start the game, press 'enter'.
 - To pause the game, press ‘P’.
 - To quit the game, press ‘esc'.
-- How fast can you eat all of the dots?
+
+# How fast can you eat all of the dots?

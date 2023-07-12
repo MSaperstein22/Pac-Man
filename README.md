@@ -1,6 +1,9 @@
 # Pac-Man Game
 
 This game is a simple version of Pac-Man.
+
+**Description:**
+
 - The goal of the game is to eat all of the dots on the screen. The user can control Pac-man's movement using the arrow keys (left, right, up, down).
 - There are pre-set walls on the screen that limit where Pac-Man can go. A single key press (left, right, up, or down) will move Pac-Man in that direction (so the user does not need to hold the key down).
 - The dots laid out over the screen will disappear when Pac-Man eats them.
@@ -11,4 +14,4 @@ This game is a simple version of Pac-Man.
 - To pause the game, press ‘P’.
 - To quit the game, press ‘esc'.
 
-## How fast can you eat all of the dots? ##
+**How fast can you eat all of the dots?**

@@ -1,6 +1,6 @@
 # Pac-Man Game
 
-This game is a simple version of Pac-Man.
+This game is a simple version of Pac-Man. It is written in C++ and uses the GE211 game engine, a relatively simple game engine for beginner C++ programmers in CS211 at Northwestern University. You can read more about the GE211 game engine and its documentation here: https://tov.github.io/ge211/
 
 **Description:**
 
